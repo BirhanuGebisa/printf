@@ -1,0 +1,4 @@
+Secure Shell Protocol is a cryptographic network protocol for operating network services securely over an unsecured network. Its most notable applications are remote login and command-line execution. SSH applications are based on a client–server architecture, connecting an SSH client instance with an SSH server.
+
+'uname' command is run without any option then it prints just the kernel name. So the output below shows that its the 'Linux' kernel that is used by this system. You can also use uname -s, which also displays the kernel name.
+
